@@ -29,6 +29,7 @@ on:
       - master
     paths-ignore:
       - '**/README.md'
+      - '**/.gitignore'
 
 name: Deploy to Amazon ECS
 
