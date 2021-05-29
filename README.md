@@ -1,6 +1,6 @@
 # The Family Drive-in Theatre
 
-## Presently, website is very basic and previous website was not quite as modern. This is a personal project to tackle the challenge of The Family Drive-in Theatre to build a more stronger web presence for fans and movie lovers.
+Presently, website is very basic and previous website was not quite as modern. This is a personal project to tackle the challenge of The Family Drive-in Theatre to build a more stronger web presence for fans and movie lovers.
 
 ## Conceptual Site Map
 
