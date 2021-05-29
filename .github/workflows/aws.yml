@@ -27,6 +27,8 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - '**/README.md'
 
 name: Deploy to Amazon ECS
 
